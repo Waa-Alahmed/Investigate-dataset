@@ -1,6 +1,6 @@
-# Udacity_P3_Investigate-dataset
+# Investigate-dataset
 
-Data analysis using Python
+Udacity- Data analysis using Python
 
 I chose the data set related to the no-show appointments.
 
